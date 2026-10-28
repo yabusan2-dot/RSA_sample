@@ -18,5 +18,5 @@
 
 - `README.md`: 本ドキュメント
 - サーバー⇒クライアントの順に起動して、クライアントで通信文を入力してください。
-  <a href="https://github.com/yabusan2-dot/RSA_sample/RSAdemo.png" target="_blank" rel="noopener noreferrer">動作画面イメージ</a>
+  <a href="https://github.com/yabusan2-dot/RSA_sample/blob/main/RSAdemo.png" target="_blank" rel="noopener noreferrer">動作画面イメージ</a>
 
